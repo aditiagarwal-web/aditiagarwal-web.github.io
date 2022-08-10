@@ -136,7 +136,7 @@ a {
   text-align: center;
   color: #eee;
   margin: 5rem 2rem;
-  border-radius: 20px;
+  border-radius: 10px;
   background-color: #031d29;
   
 }
@@ -171,7 +171,7 @@ a {
 .contact {
   text-align: center;
   margin: 5rem 2rem;
-  border-radius: 20px;
+  border-radius: 10px;
   background-color: #031d29;
 
 }
