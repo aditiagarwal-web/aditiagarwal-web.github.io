@@ -135,11 +135,10 @@ a {
   font-family: "Raleway", sans-serif;
   text-align: center;
   color: #eee;
-  margin: 5rem 5rem;
+  margin: 5rem 2rem;
   border-radius: 20px;
   background-color: #031d29;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  backdrop-filter: opacity(0.5);
+  
 }
 .info {
   font-size: 1rem;
@@ -171,11 +170,10 @@ a {
 }
 .contact {
   text-align: center;
-  margin: 5rem;
+  margin: 5rem 2rem;
   border-radius: 20px;
   background-color: #031d29;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  backdrop-filter: opacity(0.5);
+
 }
 form {
   font-size: 2rem;
